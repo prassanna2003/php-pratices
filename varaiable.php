@@ -1,6 +1,11 @@
 <?php 
-$x=10;
-echo "Data type of X: " . gettype($x) . "<br>";
-$x = 10.55;
-echo "Data type of x now: " . gettype($x) . "";
+$x = 5;
+$y = "raju";
+echo $x;
+echo "<br>";
+echo $y;
+echo "<br>";   
+
+$txt = "This is the example of string";
+echo "Varaible : $txt";
 ?>
