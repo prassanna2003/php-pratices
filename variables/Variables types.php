@@ -20,9 +20,9 @@ $x = true;
 var_dump($x);
 echo "<br>";
 
-// varaiable type for the array
-$cars = array("Volvo","BMW","Toyota");
-var_dump($cars);   
+// varaiable type for the array of string
+$cars = array("Volvo", "BMW", "Toyota");
+var_dump($cars);
 echo "<br>";
 
 // varaiable type for the NULL
